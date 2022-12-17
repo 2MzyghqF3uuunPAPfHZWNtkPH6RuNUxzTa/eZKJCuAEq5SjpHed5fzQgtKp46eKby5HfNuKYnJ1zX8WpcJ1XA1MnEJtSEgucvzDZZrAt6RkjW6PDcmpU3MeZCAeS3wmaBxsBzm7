@@ -1,0 +1,768 @@
+
+
+if game.PlaceId == 2788229376 then
+
+print("--------------------NEW STARTUP-----[DA HOOD]------------------")
+print("Startup detected!")
+warn("Starting")
+warn("Inztalizing.")
+print("Reading user ID")
+print("Chcking version.")
+print("[SKID - WARE] Is now loading. thanks for using SkidWare!")
+print("--------------------LOADING MAIN.1------------------")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxiSkid/umHvxe94CCWfxTVghczuJb9ZGmUHW3tznNS2hUYK1dMNabHaFkcf9FZ4GP3U6a8ganZy3s52zzc8kss1pXaZJx6kywg2/main/jmWMPWsBOTMM2R4aRA7zVPvZpxdNxcnaEt8QzuHHQjBsm7PrZ7mD7J5jaTtD1hujygUzXayF37g1xcJ12MpSJhHUzWxadAkzH7qrN81sphyJ89TQ2EK9F5SjJfwVQfA2abJqU437AXNXtkTUJy6RfNFbdUrjE4F4NR68a9zcNbVsHQ2CzTbP3zRggKEHcYmACFyWJY4uKUjB3RqjgU6xj1VjWkUkC2QXkWt1T8yswbsWFcFWm8GPsJvycJyVt3V65qV8unqFgb5XwChf4uyJAfCSKeUSRWgrjFhpTeMNyx3eAkPPCVnzy1AnT93tChpHDuswz8f3MbG844rj86F6s4rNrA1zw7beMJnV8HKbb2z2QERhdBdJP4CUWZPMf5Xun9K7T3d3VEsJxPsU47ZCkx2pwzWYZ7pc992NMTbru4AnFBD81GzhvT6F8GNSq3aSkS4Tb47b94ccw1jfHGcexJH3RtVBcdEcBqUAWpDxJ3tGeXPVYuVqz6DnVmyZt3GSv3kYzxFCv613WSBrHCrdTWGEy8hpSU2EkZjPt4SNGVz7cjVJbZ5XpAbHRJtRD3MDewHczt76D1uhwGwHvvBNgJe6KM"))()
+warn("Loaded - Premium | Admin system")
+print("--------------------skid ware da hood premium.-------------------")
+
+warn("AutoExecuting CHatLog")
+local ChatLogs = true
+
+if game.PlaceId == 2788229376 then
+    if ChatLogs == true then
+        game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Position = game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatChannelParentFrame.Position + UDim2.new(UDim.new(),game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatChannelParentFrame.Size.Y)
+        game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatChannelParentFrame.Visible = true
+    end
+
+    if ChatLogs == false then
+        game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Position = UDim2.new(0, 0, 0, 0)
+        game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatChannelParentFrame.Visible = false
+    end
+end
+warn("loaded!")
+
+print("Loading")
+print("---")
+print("Loading anticheat byapss 1")
+print("----")
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/yohohoyu/Hub/main/AntiCHeat%20bypass"))()
+print("------")
+print("Loading 1")  
+print("------")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BloxiSkid/9Za1K7qtHtJwJm3HhsUeXf6WHtDphVSGkW8KcBr3Aj2rUxWya935pX5QJPdKAWRsVfrcd6rTNKPK23HWbNep9j57XMwvS2xtnmqR/main/BloxiSkid/umHvxe94CCWfxTVghczuJb9ZGmUHW3tznNS2hUYK1dMNabHaFkcf9FZ4GP3U6a8ganZy3sW52zBzcH8kss1pXaZJx6kywg2'))()
+print("Loading 2")
+print("--------")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BloxiSkid/umHvxe94CCWfxTVghczuJb9ZGmUHW3tznNS2hUYK1dMNabHaFkcf9FZ4GP3U6a8ganZy3s52zzc8kss1pXaZJx6kywg2/main/HWIDK1wT9XHf5KEz2MUKVSpb93FQqqAwn1jBk9UCQZqPG82g9MvCn2P1mvPY7XsvxW5nPxuRh5pTPgTBEqvJ6mzxPR3y33V2BEg7PvYR'))()
+print("Loading Main UI")
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+print("Loaded Main UI")
+warn("Loaded main code.")
+print("Loading Key")
+print("--------------")
+
+local Window = Rayfield:CreateWindow({
+    Name = "SkidWare - Da Hood",
+    LoadingTitle = "Da Hood.",
+    LoadingSubtitle = "V: -0.00.",
+    ConfigurationSaving = {
+        Enabled = true,
+        FolderName = Skid_Ware_files, -- Create a custom folder for your hub/game
+        FileName = "SKW_DA_HOOD2"
+    },
+        Discord = {
+            Enabled = true,
+            Invite = "bbz7XmkxGq", -- The Discord invite code, do not include discord.gg/
+            RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+        
+        },
+    KeySystem = true, -- Set this to true to use our key system
+    KeySettings = {
+        Title = "SkidWare - Da Hood. ",
+        Subtitle = "V: DA HOOD - PREMIUM",
+        Note = "Da hood loader, use ur hub key.",
+        FileName = "Key_B6634#_BETA1_16724",
+        SaveKey = true,
+        GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+        Key = "AYMrrHA8XMAnCp99NVQGqnhw2NagDD4BJ1HfBHvJhyHNrFaWyvefFr7aN1cVkcHVwSSdhAWgxCvQMeXEPjUqKrss3qdH3xSQT71XBbBjrE4zUYaWF49jpa8sawrQuq8pfc5AAM58WBYdqt9gjU2z41MzDCbATUzBxME2KTYqqPBGsBD9QT4UadWpmhvNpXMDpQPQFYG4DGrayqTRhGzu6cgGeT2nVFG1Zr2ucjju86jqDPX3Dwx6b9SW9qJgM11uzsm3excbjN5ZnwqgVtjTmXZhaSTF9DCVfAbPrZJURACA"
+       
+    }
+})
+local Tab = Window:CreateTab("Welcome", 4483362458) -- Title, Image --tab created
+local Section = Tab:CreateSection("Section Example") -- section
+--notify
+Rayfield:Notify({
+    Title = "Notification Title",
+    Content = "Notification Content",
+    Duration = 6.5,
+    Image = 4483362458,
+    Actions = { -- Notification Buttons
+        Ignore = {
+            Name = "Okay!",
+            Callback = function()
+                print("The user tapped Okay!")
+            end
+		},
+	},
+})
+--Button
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+        local LowGFX = true
+
+        if LowGFX == true then
+            for _, Parts in pairs(workspace:GetDescendants()) do
+                if Parts:IsA("Part")
+                    or Parts:IsA("SpawnLocation")
+                    or Parts:IsA("WedgePart")
+                    or Parts:IsA("Terrain")
+                    or Parts:IsA("MeshPart") then
+                    if not Parts:FindFirstChild("SurfaceType") then
+                        local SurfaceType = Instance.new("StringValue",Parts)
+                        SurfaceType.Name = "SurfaceType"
+                        SurfaceType.Value = tostring(Parts.Material)
+                    end
+                    Parts.Material  = "SmoothPlastic"
+                end
+            end
+        elseif LowGFX == false then
+            for _, Parts in pairs(workspace:GetDescendants()) do
+                if Parts:IsA("Part")
+                    or Parts:IsA("SpawnLocation")
+                    or Parts:IsA("WedgePart")
+                    or Parts:IsA("Terrain")
+                    or Parts:IsA("MeshPart")
+                    and Parts:FindFirstChild("SurfaceType") then
+                    Parts.Material  = string.sub(Parts.SurfaceType.Value,15)
+                end
+            end
+        end
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "AntiBag",
+    Callback = function()
+        task.wait()
+     
+        if game.PlaceId == 2788229376 then
+            local LP = game.Players.LocalPlayer;
+            for i,v in ipairs(LP.Character:GetDescendants()) do
+                if v.Name == "Christmas_Sock" then v:Destroy()
+                end;
+            end;
+            LP.Character.ChildAdded:Connect(function()
+                wait(0.5)
+                for i,v in ipairs(LP.Character:GetDescendants()) do
+                    if v.Name == "Christmas_Sock" then v:Destroy()
+                    end;
+                end;
+            end);
+        end
+   
+
+    end,  --// end
+})
+
+
+
+
+local Button = Tab:CreateButton({
+    Name = "InfStamina",
+    Callback = function()
+        task.wait()
+        
+   
+        local LP = game.Players.LocalPlayer
+
+        function InfStamina(Character)
+            Character:WaitForChild'BodyEffects'
+            game:GetService('RunService').Stepped:Connect(function()
+                pcall(function()
+                    LP.Character.BodyEffects.Movement:ClearAllChildren()
+                    LP.Character.BodyEffects.Reload.Value = false
+                    LP.Character.BodyEffects.Defense.Value = 9e9
+                end)
+            end)
+        end
+        InfStamina(game.Players.LocalPlayer.Character)
+        game.Players.LocalPlayer.CharacterAdded:Connect(InfStamina)
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Legit Speed Glitch",
+    Callback = function()
+        task.wait()
+        
+        if game.PlaceId == 2788229376 then
+            if getgenv().L_15 == true then
+                game.StarterGui:SetCore("SendNotification", {
+                    Title = "Speed Glitch";
+                    Text = "Already Executed";
+                })
+                return
+            end
+            getgenv().L_15 = true -- dont change me
+            
+            getgenv().Notification = true
+            getgenv().AutoMacro = true
+            getgenv().Macro = true
+            getgenv().AutoMacroKey = Enum.KeyCode.Z
+            getgenv().MacroKey = Enum.KeyCode.X
+            getgenv().MacroMode = "Mouse" -- Keyboard, Mouse
+            getgenv().GodMacro = true
+            getgenv().GodMacroKey = Enum.KeyCode.C
+            getgenv().GodMacroAuto = false
+        
+            if AutoMacro == true then
+                game:GetService("UserInputService").InputBegan:Connect(function(input, chatting)
+                    if input.UserInputType == Enum.UserInputType.Keyboard then
+                        if chatting then
+                            IsChatting = true
+                        else
+                            IsChatting = false
+                        end
+                        if input.KeyCode == AutoMacroKey then
+                            if IsChatting ~= false then
+                                return
+                            end
+                            if not AutoMacroToggle then
+                                if Notification == true then
+                                    game.StarterGui:SetCore("SendNotification", {
+                                        Title = "AutoMacro";
+                                        Text = "AutoMacro: On";
+                                    })
+                                end
+                                AutoMacroToggle = true
+                                Instance.new("Animation", game:GetService("ReplicatedStorage"):findFirstChild("ClientAnimations")).Name = 'Greet'
+                                game:GetService("ReplicatedStorage"):findFirstChild("ClientAnimations"):findFirstChild("Greet").AnimationId = 'rbxassetid://3189777795'
+                                local Greet = game.ReplicatedStorage.ClientAnimations.Greet
+                                local Humanoid = game.Players.LocalPlayer.Character.Humanoid
+                                local Animation = Humanoid:LoadAnimation(Greet)
+                                Animation:Play()
+                                wait(1.6)
+                                for i, v in next, game:GetService("Players").LocalPlayer.Backpack:GetChildren() do
+                                    if v:IsA("Tool") and v.Name ~= "Combat" or v.Name ~= "[Boombox]" then
+                                        game:GetService("Players").LocalPlayer.Character:findFirstChildOfClass'Humanoid':EquipTool(v)
+                                    end
+                                end
+                                wait()
+                                game:GetService("VirtualInputManager"):SendKeyEvent(true, "S", false, game)
+                                spawn(function()
+                                    if MacroMode == "Keyboard" then
+                                        while AutoMacroToggle == true do
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                        end
+                                    elseif MacroMode == "Mouse" then
+                                        while AutoMacroToggle == true do
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                        end
+                                    end
+                                end)
+                                Animation:Stop()
+                                Macro =
+                                    game:service'Players'.LocalPlayer.Character:findFirstChildOfClass'Humanoid'.Running:Connect(function()
+                                        Animation:Stop()
+                                    end)
+                            else
+                                if Notification == true then
+                                    game.StarterGui:SetCore("SendNotification", {
+                                        Title = "AutoMacro";
+                                        Text = "AutoMacro: Off";
+                                    })
+                                end
+                                AutoMacroToggle = false
+                                local Greet = game.ReplicatedStorage.ClientAnimations.Greet
+                                local Humanoid = game.Players.LocalPlayer.Character.Humanoid
+                                local Animation = Humanoid:LoadAnimation(Greet)
+                                Animation:Stop()
+                                game:GetService("ReplicatedStorage"):findFirstChild("ClientAnimations"):findFirstChild("Greet"):Remove()
+                                Macro:Disconnect()
+                            end
+                        end
+                    end
+                end)
+            end
+        
+            if Macro == true then
+                game:GetService("UserInputService").InputBegan:Connect(function(input, chatting)
+                    if input.UserInputType == Enum.UserInputType.Keyboard then
+                        if chatting then
+                            IsChatting = true
+                        else
+                            IsChatting = false
+                        end
+                        if input.KeyCode == MacroKey then
+                            if IsChatting ~= false then
+                                return
+                            end
+                            if not MacroToggle then
+                                if Notification == true then
+                                    game.StarterGui:SetCore("SendNotification", {
+                                        Title = "Macro";
+                                        Text = "Macro: On";
+                                    })
+                                end
+                                MacroToggle = true
+                                spawn(function()
+                                    if MacroMode == "Keyboard" then
+                                        while MacroToggle == true do
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            wait()
+                                        end
+                                    elseif MacroMode == "Mouse" then
+                                        while MacroToggle == true do
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            wait()
+                                        end
+                                    end
+                                end)
+                            else
+                                if Notification == true then
+                                    game.StarterGui:SetCore("SendNotification", {
+                                        Title = "Macro";
+                                        Text = "Macro: Off";
+                                    })
+                                    MacroToggle = false
+                                end
+                            end
+                        end
+                    end
+                end)
+            end
+            if GodMacro == true then
+                game:GetService("UserInputService").InputBegan:Connect(function(input, chatting)
+                    if input.UserInputType == Enum.UserInputType.Keyboard then
+                        if chatting then
+                            IsChatting = true
+                        else
+                            IsChatting = false
+                        end
+                        if input.KeyCode == GodMacroKey then
+                            if IsChatting ~= false then
+                                return
+                            end
+                            if not GodMacroToggle then
+                                if Notification == true then
+                                    game.StarterGui:SetCore("SendNotification", {
+                                        Title = "GodMacro";
+                                        Text = "GodMacro: On";
+                                    })
+                                end
+                                GodMacroToggle = true
+                                if GodMacroAuto == true then
+                                    Instance.new("Animation", game:GetService("ReplicatedStorage"):findFirstChild("ClientAnimations")).Name = 'Greet'
+                                    game:GetService("ReplicatedStorage"):findFirstChild("ClientAnimations"):findFirstChild("Greet").AnimationId = 'rbxassetid://3189777795'
+                                    local Greet = game.ReplicatedStorage.ClientAnimations.Greet
+                                    local Humanoid = game.Players.LocalPlayer.Character.Humanoid
+                                    local Animation = Humanoid:LoadAnimation(Greet)
+                                    Animation:Play()
+                                    wait(1.6)
+                                    for i, v in next, game:GetService("Players").LocalPlayer.Backpack:GetChildren() do
+                                        if v:IsA("Tool") and v.Name ~= "Combat" or v.Name ~= "[Boombox]" then
+                                            game:GetService("Players").LocalPlayer.Character:findFirstChildOfClass'Humanoid':EquipTool(v)
+                                        end
+                                    end
+                                    wait()
+                                    game:GetService("VirtualInputManager"):SendKeyEvent(true, "S", false, game)
+                                end
+                                spawn(function()
+                                    if MacroMode == "Keyboard" then
+                                        while GodMacroToggle == true do
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "I", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendKeyEvent(true, "O", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                        end
+                                    elseif MacroMode == "Mouse" then
+                                        while GodMacroToggle == true do
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", true, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                            game:GetService("VirtualInputManager"):SendMouseWheelEvent("0", "0", false, game)
+                                            game:GetService("RunService").Heartbeat:wait()
+                                        end
+                                    end
+                                end)
+                                if GodMacroAuto == true then
+                                    Animation:Stop()
+                                    Macro =
+                                        game:service'Players'.LocalPlayer.Character:findFirstChildOfClass'Humanoid'.Running:Connect(function()
+                                            Animation:Stop()
+                                        end)
+                                end
+                            else
+                                if Notification == true then
+                                    game.StarterGui:SetCore("SendNotification", {
+                                        Title = "GodMacro";
+                                        Text = "GodMacro: Off";
+                                    })
+                                    GodMacroToggle = false
+                                    if GodMacroAuto == true then
+                                        local Greet = game.ReplicatedStorage.ClientAnimations.Greet
+                                        local Humanoid = game.Players.LocalPlayer.Character.Humanoid
+                                        local Animation = Humanoid:LoadAnimation(Greet)
+                                        Animation:Stop()
+                                        game:GetService("ReplicatedStorage"):findFirstChild("ClientAnimations"):findFirstChild("Greet"):Remove()
+                                        Macro:Disconnect()
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end)
+            end
+        end
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "No Jump cooldown",
+    Callback = function()
+        task.wait()
+        
+        if game.PlaceId == 2788229376 then
+            local gmt = getrawmetatable(game)
+            setreadonly(gmt, false)
+            local old = gmt.__newindex
+        
+            gmt.__newindex = newcclosure(function(t,i,v)
+                if i == "JumpPower" then
+                    return old(t,i,50)
+                end
+                return old(t,i,v)
+            end)
+        end
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "No Slowdown",
+    Callback = function()
+        task.wait()
+        
+        function Animation(Character)
+            Character:WaitForChild'Animate'
+            game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+            for i, player in ipairs(game.Players:GetChildren()) do
+                local Animate = game.Players.LocalPlayer.Character.Animate
+                Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=782841498"
+                Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=782841498"
+                Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=616168032"
+                Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=616163682"
+                Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=1083218792"
+                Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=1083439238"
+                Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=707829716"
+                Animate.swim.Swim.AnimationId = "http://www.roblox.com/asset/?id=616165109"
+                Animate.swimidle.SwimIdle.AnimationId = "http://www.roblox.com/asset/?id=616166655"
+                game.Players.LocalPlayer.Character.Humanoid.Jump = false
+            end
+            wait(1)
+            game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+        end
+        Animation(game.Players.LocalPlayer.Character)
+        game.Players.LocalPlayer.CharacterAdded:Connect(Animation)
+
+    end,  --// end
+})
+
+--//   BAG AND OTHER ONE --//   BAG AND OTHER ONE--//   BAG AND OTHER ONE--//   BAG AND OTHER ONE--//   BAG AND OTHER ONE--//   BAG AND OTHER ONE--//   BAG AND OTHER ONE
+
+local Tab = Window:CreateTab("Target", 4483362458) -- Title, Image
+
+local Input = Tab:CreateInput({
+	Name = "Bag",
+	PlaceholderText = "TargetPlr",
+	RemoveTextAfterFocusLost = false,
+	Callback = function(Text)
+
+        function getRoot(char)
+            local rootPart = char:FindFirstChild('HumanoidRootPart') or char:FindFirstChild('Torso') or char:FindFirstChild('UpperTorso')
+            return rootPart
+        end
+
+        if TargetPlr and game.Players[TargetPlr].Character.BodyEffects['K.O'].Value == false then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.Ignored.Shop['[BrownBag] - $25'].Head.CFrame
+            wait(.30)
+            fireclickdetector(game.Workspace.Ignored.Shop['[BrownBag] - $25'].ClickDetector)
+            game.Players.LocalPlayer.Backpack:WaitForChild("[BrownBag]").Parent = game.Players.LocalPlayer.Character
+            wait(.5)
+            repeat
+                pcall(function()
+                    wait()
+                    getRoot(game.Players[TargetPlr].Character).CFrame = getRoot(game.Players.LocalPlayer.Character).CFrame + Vector3.new(1,3,0)
+                    game.Players.LocalPlayer.Character["[BrownBag]"]:Activate()
+                end)
+            until game.Players[TargetPlr].Character:FindFirstChild("Christmas_Sock")
+        elseif game.Players[TargetPlr].Character.BodyEffects['K.O'].Value == false then
+        end
+end
+	end,
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+local Button = Tab:CreateButton({
+    Name = "Low GFX",
+    Callback = function()
+        task.wait()
+        
+   
+
+    end,  --// end
+})
+
+
+
+
+
+
+
+
+
