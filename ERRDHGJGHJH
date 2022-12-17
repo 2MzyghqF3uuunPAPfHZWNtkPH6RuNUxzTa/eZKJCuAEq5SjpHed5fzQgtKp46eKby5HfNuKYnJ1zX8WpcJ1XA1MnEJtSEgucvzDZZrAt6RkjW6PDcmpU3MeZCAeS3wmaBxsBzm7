@@ -1,6 +1,6 @@
 
 
-if game.PlaceId == 2788229376 then
+
 
 print("--------------------NEW STARTUP-----[DA HOOD]------------------")
 print("Startup detected!")
